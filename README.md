@@ -5,3 +5,14 @@ In the world of natural language processing (NLP), the ability to make machines 
 
 By the time we finish this project, we’ll have built our very own Transformer model from the ground up. We'll understand how to prepare text for a machine to process, and we'll implement key components like self-attention and positional encoding, the very techniques that give Transformer models their edge. These are the same principles that make it possible for AI to comprehend and generate text in ways that feel almost human.
 
+**In this project:**
+
+- Understand tokenization and one-hot encoding to prepare textual data for machine learning models.
+
+- Implement the self-attention mechanism and integrate it into a simple neural network model.
+
+- Apply positional encoding to capture word order within sequences, improving the model’s understanding of text structure.
+
+- Build a basic translation model or text processing task, applying the key concepts of self-attention and positional encoding in practice.
+
+- Compare Transformers to traditional sequence models like RNNs and LSTMs, gaining insight into the advantages of modern architectures.
